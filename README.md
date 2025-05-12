@@ -55,5 +55,5 @@ Models were evaluated using:
 - **Precision, Recall, F1-Score**
 - **Balanced Accuracy**
 
-Visuals and plots such as ROC curves and feature importance graphs are available in the [`reports/`](./reports/) and [`images/`](./images/) directories.
+
 
